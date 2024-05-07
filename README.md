@@ -1,4 +1,4 @@
-# Overview
+# Overview - Goals and Motivation
 This final project aims to be the capstone of the Advanced Embedded Linux Development Specialization. The goal of this project is to roll a custom Linux Image (using Yocto Project) targeting as Hardware an NVIDIA AGX Orin used by [MoReModenaRacing - Driverless Formula Student Team](https://www.moremodenaracing.it/mmr-driverless/) of the [University of Modena and Reggio Emilia (UNIMORE)](https://www.ingmo.unimore.it/it). Unfortunately, since the source code of the Autonomous Driving Pipeline is not Open-Source, this project will _only_ target open-source packages used within the autonomous driving pipeline. The ported packages are the following:
 
 - ROS 2 - Foxy Fitzroy.
