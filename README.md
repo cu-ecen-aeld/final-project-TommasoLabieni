@@ -41,9 +41,9 @@ The planned new contents to be ported are the following:
 Not applicable.
 
 # Source Code Organization
-- Yocto Repository will be hosted [here](https://github.com/TommasoLabieni/MMR-Yocto-Image/tree/main).
+- Yocto Repository will be hosted in this [repository](https://github.com/TommasoLabieni/MMR-Yocto-Image/tree/main).
 
-- TkDNN code will be hosted in a repository [here](https://github.com/TommasoLabieni/TkDNN-ROS2/tree/main).
+- TkDNN code will be hosted in this [repository](https://github.com/TommasoLabieni/TkDNN-ROS2/tree/main).
 
 - Nvidia Tegra BSP OE Layer is hosted in this [repository](https://github.com/OE4T/meta-tegra).
 
