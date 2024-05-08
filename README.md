@@ -11,7 +11,7 @@ Here's a graph displaying the main Components of the Yocto Image:
     <img src="media/yocto_image_drawio.png" alt="Yocto Image Components"/>
 </p>
 
-The final result is successfully executing the TkDNN library, displaying inference made on sample videos recorded during test days.
+The expected result is to successfully executing the TkDNN library, displaying inference made on sample videos recorded during test days.
 
 # Target Build System
 As mentioned above, the chosen Target Build System is Yocto.
