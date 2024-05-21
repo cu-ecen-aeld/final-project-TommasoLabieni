@@ -8,7 +8,7 @@ This final project aims to be the capstone of the Advanced Embedded Linux Develo
 Here's a graph displaying the main Components of the Yocto Image:
 
 <p align="center">
-    <img src="media/yocto_image_drawio.png" alt="Yocto Image Components"/>
+    <img src="media/yocto_image.png" alt="Yocto Image Components"/>
 </p>
 
 The expected result is to successfully execute the TkDNN library, displaying inference made on sample videos recorded during test days.
